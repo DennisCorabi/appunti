@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/17-09.md",
+            "file": "Sistemi/23-09.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/17-09.md",
+            "file": "Sistemi/23-09.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/17-09.md",
+                "file": "Sistemi/23-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,12 +101,12 @@
   },
   "active": "51d349811141e296",
   "lastOpenFiles": [
+    "Sistemi/23-09.md",
     "Sistemi/17-09.md",
     "Sistemi/04-10.md",
     "TPS/14-09.md",
     "Senza nome.md",
     "TPS/27-09.md",
-    "Sistemi/23-09.md",
     "Sistemi/30-09.md",
     "ciao.md"
   ]
