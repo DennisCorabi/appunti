@@ -55,9 +55,21 @@ Dove:
 Si possono utilizzare molti mezzi di trasmissione per trasmettere dei bit, i quali si differenziano dagli altri per fattori quali il prezzo, la manutenzione, l'efficienza, ecc...
 
 ### **Nastri Magnetici**
-I nastri magnetici sono uno dei più comuni mezzi utilizzati per trasmettere dati da un computer ad un altro.
+I nastri magnetici sono uno dei più comuni mezzi utilizzati per trasmettere dati da un computer ad un altro grazie al loro rapporto spesa/bandwidth.
 
-lo standard industriale è l'**ultrium tape**, che può contenere fino a 800 gb.
+lo standard industriale è l'**ultrium tape**, che può contenere fino a 800 gb ed è grande pochi centimetri.
+
+### **Cavi Twister Pair**
+Uno dei più comuni mezzi di trasmissione sono i **cavi twister pair**.
+Questo cavo è composto da due fili di rame, di spessore 1mm, intrecciati tra di loro, formando così una struttura ad elica.
+Il segnale viene trasportato sotto forma di **differenza tra i voltaggi** dei due fili.
+
+**Perchè si usano i cavi intrecciati?**
+Si usano cavi intrecciati così da renderli immuni alle influenze di altri campi elettromagnetici e distrurbi.
+Più stretti sono i cavi --> Più sono immuni ai disturbi --> Maggiore MDR (e maggiore costo).
+
+I cavi twisted pair vengono utilizzati nelle linee telefoniche e per il collegamento ad internet.
+Il segnale in questi cavi pos
 ***
 ## Twisted Pair
 
@@ -70,10 +82,6 @@ Diverse tipologie di collegamento:
 - **Half Duplex**: *collegamento monodirezionale*: se sto invando, non riesco a ricevere il segnale.
 - **Simplex**: collegamento monodirezionale dove posso solo ricevere il segnale, ma non inviarlo.
 
-### Perchè si usano i cavi intrecciati?
-
-Si usano cavi intrecciati così da renderli immuni alle influenze di altri campi elettromagnetici e distrurbi.
-Più stretti sono i cavi --> Più sono immuni ai disturbi --> Maggiore MDR (e maggiore costo).
 ***
 ## Cavi Coassiali
 
