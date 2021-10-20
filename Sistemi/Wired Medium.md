@@ -160,10 +160,19 @@ La massima larghezza di banda **teorica** delle fibre ottiche è di *50.000 Gb/s
 La larghezza di banda attualmente più grande per una fibra ottica è di *100 Gb/s*.
 
 **Fibre ottiche VS rame**
-- **Efficienza**: La fibra ha una maggiore larghezza di banda rispetto al rame.
-- **Manutenzione**: i ripetitori idi segnale in fibra ottica possono essere distanti fino a 50 Km tra loro, quelli per il rame massimo 5 (con conseguente risparmio di denaro per installazione e manutenzione) .
-- **Peso**:La fibra è più leggera del rame (100 Kg/Km VS 8000 Kg/km ).
--**Costo**: La fibra ottica è più costosa del rame, ma per il suo rapporto peso/chilometro (VEDI SOPRA), diventa economicamente vantaggiosa.
+- **Pro della fibra ottica**
+	- **Efficienza**: La fibra ha una maggiore larghezza di banda rispetto al rame.
+	- **Manutenzione**: i ripetitori idi segnale in fibra ottica possono essere distanti fino a 50 Km tra loro, quelli per il rame massimo 5 (con conseguente risparmio di denaro per installazione e manutenzione) .
+	- **Peso**:La fibra è più leggera del rame (100 Kg/Km VS 8000 Kg/km ).
+	- **Costo**: La fibra ottica è più costosa del rame, ma per il suo rapporto peso/chilometro (VEDI SOPRA), diventa economicamente vantaggiosa.
+
+- **Contro della fibra ottica**
+	- **Comunicazione unidirezionale**: per sua natura, la fibra ottica permette una comunicaizione **simplex**.
+	- **Fragilità**: il cavo in fibra ottica si spezza facilmente se piegato.
+
+***
+
+
 
 
 
