@@ -1,4 +1,17 @@
-# 23-09-2021
+# Livello fisico
+## Indice
+- **Mezzi di trasmissione**
+	- Cablata
+	- Wireless
+	- Satellitare
+	- Altri
+	
+- **Modulazione Digitale **
+
+## Introduzione
+
+**Analisi di Fourier**
+
 
 ## MDR
 l'**MDR** in un canale di comunicazione indica la qta di informazione trasmessa in un canale di comunicazione.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/23-09.md",
+            "file": "Sistemi/Physical Layer.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/23-09.md",
+            "file": "Sistemi/Physical Layer.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/23-09.md",
+                "file": "Sistemi/Physical Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,8 @@
   "active": "2d745469f858e2f8",
   "lastOpenFiles": [
     "Sistemi/23-09.md",
-    "Sistemi/17-09.md",
     "Sistemi/04-10.md",
+    "Sistemi/17-09.md",
     "TPS/14-09.md",
     "Senza nome.md",
     "TPS/27-09.md",
