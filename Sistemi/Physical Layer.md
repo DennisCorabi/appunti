@@ -147,39 +147,23 @@ Ha un costo maggiore e viene utilizzata sopratutto nel trasporto a lunga distanz
 - **Multi-Mode**: capace di portare **diverse** tipologie di frequenze di luce.
 prezzo minore ma necessita di maggiore manutenzione.
 
-
-La massima larghezza di banda teorica delle fibre ottiche è di 50.000 Gb/s.
-La larghezza di banda attualmente più grande per una fibra ottica è di 100 Gb/s.
-
-### Tipologie di fibre ottiche
-vi sono due tipologie di fibre ottiche
-
-- **single-mode**: capace di portare un tipo preciso di frequenza di luce.
-ha un costo maggiore e viene utilizzata sopratutto nel trasporto a lunga distanza (trasmette fino a 100 gb/s senza bisogno di un amplificatore).
-
-- **multi-mode**: capace di portare diverse tipologie di frequenze di luce.
-prezzo minore ma necessita di maggiore manutenzione.
-
-**lunghezza d'onda * frequenza = c (velocità della luce)**
-
-### Come instradare i segnali in fibra ottica
-
-Si possono usare diversi strumenti per inviare segnali in fibra ottica:
-
-- **LED**: Basso MDR, multi-mode, a basso costo e bassa sensibilità a temperatura.
-
+**Generazione del fascio di luce**
+Per instradare i segnali in fibra ottica si utilizzano diverse fonti di luce, tra le quali le più importanti sono:
+- **LED**: basso MDR, multi-mode, a basso costo e bassa sensibilità a temperatura.
 - **Laser a semiconduttore**: Alto MDR, multi/single-mode, costoso ed alta sensibilità alla temperatura.
 
 Sensibilità al rumore nulla in tutti e due i casi.
 
-***
+**Velocità di trasmissione**
+Per loro natura, gli impulsi di luce viaggiano nel cavo di fibra ottica alla **velocità della luce**.
+La massima larghezza di banda **teorica** delle fibre ottiche è di *50.000 Gb/s*
+La larghezza di banda attualmente più grande per una fibra ottica è di *100 Gb/s*.
 
-## Fibre ottiche VS rame
-- **Ripetitori di segnali**: i ripetitori in fibra ottica possono essere distanti fino a 50 Km tra loro; Quelli per il rame massimo 5.
-
-- La fibra è **più leggera** del rame (100 Kg/Km VS 8000 Kg/km ).
-
-- fibra ottica più costosa del rame, ma per il suo rapporto peso/chilometro (VEDI SOPRA) diventa economicamente vantaggiosa.
+**Fibre ottiche VS rame**
+- **Efficienza**: La fibra ha una maggiore larghezza di banda rispetto al rame.
+- **Manutenzione**: i ripetitori idi segnale in fibra ottica possono essere distanti fino a 50 Km tra loro, quelli per il rame massimo 5 (con conseguente risparmio di denaro per installazione e manutenzione) .
+- **Peso**:La fibra è più leggera del rame (100 Kg/Km VS 8000 Kg/km ).
+-**Costo**: La fibra ottica è più costosa del rame, ma per il suo rapporto peso/chilometro (VEDI SOPRA), diventa economicamente vantaggiosa.
 
 
 
