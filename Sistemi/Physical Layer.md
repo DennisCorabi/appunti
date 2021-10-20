@@ -26,7 +26,17 @@ Si chiama **Banda Passaggio** invece i segnali che non incominiciano da frequenz
 
 Nel cavo ethernet vengono utilizzate tutte le frequenze disponibili, partendo da 0 (**baseband**). Nelle trasmissioni wireless invece la frequenza di partenza non è 0, ma dalla prima frequenza disponibile (**passband**).
 
-## **MDR:** Maximum Data Rate
+### **MDR: Maximum Data Rate**
+Nel 1924, **Henry Nyquist** ipotizzò che neanche un canale di comunicazione perfetto (ovvero senza rumori esterni che rovinano il segnale) ha una larghezza di banda finita dovuta all’attenuazione del segnale trasportato.
+Nyquist provò che un segnale in un canale perfetto può essere riscostruito utilizzando il doppio dei campionamenti: **Teorema di Nyquist**
+
+$$
+MDR = 2B \times\log(V) [b/s]
+$$
+Dove:
+- B: Larghezza di banda del segnale
+- V: numero 
+
 l'**MDR** in un canale di comunicazione indica la qta di informazione trasmessa in un canale di comunicazione.
 ***
 ## Nastri Magnetici
