@@ -48,10 +48,14 @@ MDR = B \times\log(1+S/N) [b/s]
 $$
 Dove:
 - *B*: Larghezza di banda del canale
-- *S/N*: Rapporto tra il segnale inviato dalla NIC (quantità di potenza consumata) e la potenza del rumore
-
+- *S*: Potenza del segnale inviato dalla NIC  (ovvero il segnale originale)
+- *N*: Potenza complessiva del rumore a cui è soggetto il canale.
 ***
-## Nastri Magnetici
+## Mezzi di trasmissione
+Si possono utilizzare molti mezzi di trasmissione per trasmettere dei bit, i quali si differenziano dagli altri per fattori quali il prezzo, la manutenzione, l'efficienza, ecc...
+
+### **Nastri Magnetici**
+I nastri magnetici sono uno dei più comuni mezzi utilizzati per trasmettere dati da un computer ad un altro.
 
 lo standard industriale è l'**ultrium tape**, che può contenere fino a 800 gb.
 ***
