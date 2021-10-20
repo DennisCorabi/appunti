@@ -108,7 +108,18 @@ Questi cavi sono stati pesantemente rimpiazzati dalle fibre ottiche.
 
 ### **Fibra Ottica**
 
-Utilizza la luce per trasportare i bit da trasmittore al ricevente.
+La **fibra ottica** è un mezzo di trasmissione, ampiamente utilizzato ai giorni nostri, che utilizza la luce per trasportare i bit da trasmittore al ricevente.
+La presenza di luce viene codificata con un *1*, mentre l'assenza di luce con uno *0*.
+
+Una connessione in fibra ottica è composta da *tre* elementi fondamentali:
+- **La fonte di luce** (mittente)
+- **Il mezzo di trasmissione** (cavo in fibra) 
+- **RIcevente** (destinatario)
+
+
+**Il mezzo di trasmissione**
+La luce viaggia in un cavo sottilissimo in vetro
+
 Ad oggi le fibre ottiche possono trasportare segnali per decine di chilometri.
 
 Abbiamo bisogno di due interfacce, che trasfromino un impulso di luce in elettricità e viceversa (**Convertitore Opto-Elettronico**).
