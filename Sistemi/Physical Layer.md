@@ -89,21 +89,24 @@ Su più lunghe distanze, invece, il segnale si attenua e vengono utilizzati i ri
 	- **Simplex**: collegamento monodirezionale dove posso solo ricevere il segnale, ma non inviarlo.
 
 ### **Cavi Coassiali** 
-Il **Cavo Coassiale** viene è un mezzo di trasmissione dati molto utilizzato.
-Ha una protezione dai rumori ed una larghezza di banda migliore rispetto ai cavi twisted pair
-***
-## Cavi Coassiali
+Il **Cavo Coassiale** viene è un mezzo di trasmissione dati ad oggi non molto utilizzato.
 
-Composto da un'anima di rame, rivestito da isolate, ricoperta di un materiale conduttore, rivestita da un materiale plastico.
+Ha una protezione dai rumori ed una larghezza di banda migliore rispetto ai cavi twisted pair.
+Avendo una larghezza di banda maggiore, il segnale riesce a percorrere più spazio e ad una maggiore velocità.
 
-Due tipologie: 
-- Cavi 50 Ohm
-- Cavi 75 Ohm
+I cavi coassiali più recenti hanno una larghezza di banda che raggiunge l'ordine dei *GHz*.
+
+**Struttura**
+Un cavo coassiale è composto da un'anima di rame, rivestito da isolate, ricoperta di un materiale conduttore, rivestita da un materiale plastico.
+
+**Tipologie**
+- **Per utilizo**
+	- **50 Ohm**: utilizzato per la trasmissione digitale
+	- **75 Ohm**: utilizzato per la trasmissione analogica e televisiva.
 
 Questi cavi sono stati pesantemente rimpiazzati dalle fibre ottiche.
 
-***
-## Fibra Ottica
+### **Fibra Ottica**
 
 Utilizza la luce per trasportare i bit da trasmittore al ricevente.
 Ad oggi le fibre ottiche possono trasportare segnali per decine di chilometri.
