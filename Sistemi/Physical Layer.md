@@ -64,12 +64,23 @@ Uno dei più comuni mezzi di trasmissione sono i **cavi twister pair**.
 Questo cavo è composto da due fili di rame, di spessore 1mm, intrecciati tra di loro, formando così una struttura ad elica.
 Il segnale viene trasportato sotto forma di **differenza tra i voltaggi** dei due fili.
 
+Nei cavi possono essere presenti più coppie di fili intrecciati tra di loro in parallelo.
+
+
 **Perchè si usano i cavi intrecciati?**
 Si usano cavi intrecciati così da renderli immuni alle influenze di altri campi elettromagnetici e distrurbi.
 Più stretti sono i cavi --> Più sono immuni ai disturbi --> Maggiore MDR (e maggiore costo).
 
+**Utilizzo**
 I cavi twisted pair vengono utilizzati nelle linee telefoniche e per il collegamento ad internet.
-Il segnale in questi cavi pos
+
+**Manutenzione**
+Ii segnali in questi cavi possono percorrere molti chilometri senza amplificatori di segnale.
+Su più lunghe distanze, invece, il segnale si attenua e vengono utilizzati i ripetori.
+
+**Tipologie**
+- **UTP** (Unshielded Twisted Pair): cavo composto dai fili e dal rivestimento isolante.
+- **STP** (Shielded Twisted Pair): i cavi sono coperti da un ulteriore rivestimento di rame.
 ***
 ## Twisted Pair
 
