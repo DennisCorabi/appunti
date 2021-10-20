@@ -11,7 +11,11 @@
 ## Introduzione
 
 **Analisi di Fourier**
+Nei primi anni del 19esimo secolo, il matematico francese **Jean-Baptiste Fourier** constatò che ogni segnale periodico può essere visto come  un insieme infinito di seni e coseni.
 
+**Bandwidth - Larghezza di banda**
+La larghezza di banda è la quantità di informazioni (frequenze) che il mittente riesce ad inviare al destinatario. 
+Più frequenze disp
 
 ## MDR
 l'**MDR** in un canale di comunicazione indica la qta di informazione trasmessa in un canale di comunicazione.
