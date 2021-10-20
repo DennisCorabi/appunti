@@ -140,9 +140,13 @@ I cavi in fibra ottica sono molto simili ai cavi coassiali.
 
 In un cavo di fibra ottica possono esserci più fili (almeno due e sempre multipli di 2).
 
-**Tipologie
+**Tipologie**
+In base a quali tipologie di raggi sono supportati, le fibre ottiche si dividono in:
+- **Single-Mode**: capace di portare un **solo**  tipo preciso di frequenza di luce.
+Ha un costo maggiore e viene utilizzata sopratutto nel trasporto a lunga distanza (fino a 100 gb/s per 100 Km senza bisogno di un amplificatore).
+- **Multi-Mode**: capace di portare **diverse** tipologie di frequenze di luce.
+prezzo minore ma necessita di maggiore manutenzione.
 
-Ad oggi le fibre ottiche possono trasportare segnali per decine di chilometri.
 
 La massima larghezza di banda teorica delle fibre ottiche è di 50.000 Gb/s.
 La larghezza di banda attualmente più grande per una fibra ottica è di 100 Gb/s.
