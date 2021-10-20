@@ -13,9 +13,18 @@
 **Analisi di Fourier**
 Nei primi anni del 19esimo secolo, il matematico francese **Jean-Baptiste Fourier** constatò che ogni segnale periodico può essere visto come  un insieme infinito di seni e coseni.
 
-**Bandwidth - Larghezza di banda**
-La larghezza di banda è la quantità di informazioni (frequenze) che il mittente riesce ad inviare al destinatario. 
-Più frequenze disp
+### **Bandwidth - Larghezza di banda**
+
+La **larghezza di banda** è la quantità di informazioni (frequenze) che il mittente riesce ad inviare al destinatario. 
+
+La larghezza di banda è una proprietà fisica del mezzo di trasmissione che dipende da lunghezza e spessore del cavo.
+Più frequenze utlizzabili -> maggiore fedeltà al segnale originale -> più dati condivisi.
+
+I segnali che vanno da una frequenza 0 alla massima frequenza disponibile sono chiamati  **Banda Base**.
+Questo non è possibile nel mondo reale a causa del fatto che le frequenze sono spartite tra i vari utilizzatori.
+Si chiama **Banda Passaggio** invece i segnali che non incominiciano da frequenza 0.
+
+Nel cavo ethernet vengono utilizzate tutte le frequenze disponibili, partendo da 0 (**baseband**). Nelle trasmissioni wireless invece la frequenza di partenza non è 0, ma dalla prima frequenza disponibile (**passband**).
 
 ## MDR
 l'**MDR** in un canale di comunicazione indica la qta di informazione trasmessa in un canale di comunicazione.
