@@ -26,7 +26,7 @@ Si chiama **Banda Passaggio** invece i segnali che non incominiciano da frequenz
 
 Nel cavo ethernet vengono utilizzate tutte le frequenze disponibili, partendo da 0 (**baseband**). Nelle trasmissioni wireless invece la frequenza di partenza non è 0, ma dalla prima frequenza disponibile (**passband**).
 
-## MDR
+## **MDR:** Maximum Data Rate
 l'**MDR** in un canale di comunicazione indica la qta di informazione trasmessa in un canale di comunicazione.
 ***
 ## Nastri Magnetici
