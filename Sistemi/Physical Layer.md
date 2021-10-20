@@ -117,8 +117,17 @@ Una connessione in fibra ottica è composta da *tre* elementi fondamentali:
 - **RIcevente** (destinatario)
 
 
-**Il mezzo di trasmissione**
-La luce viaggia in un cavo sottilissimo in vetro
+**Funzionamento**
+1) Un impulso elettrico viene dapprima convertito in un impulso di luce.
+2) Da una fonte di luce viene poi generato il segnale in questione e viene "instradato" nei cavi in **fibra ottica** per raggiungere la destinazione.
+3) Il fotone, giunto a destinazione viene riconvertito in segnale elettrico.
+
+La conversione da segnale elettrico a impulso luminoso e vicevesa viene effettuata dal **convertitore opto-elettronico**.
+**La luce i
+La luce viaggia in un cavo sottilissimo in vetro e "**rimbalza**" (o meglio, si riflette) continuamente sulle pareti del cavo, composto da uno speciale tipologia di vetro.
+L'angolo con cui il fotone si riflette dipende dall'**indice di rifrazione** del vetro in questione.
+
+
 
 Ad oggi le fibre ottiche possono trasportare segnali per decine di chilometri.
 
