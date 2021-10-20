@@ -123,28 +123,29 @@ Una connessione in fibra ottica è composta da *tre* elementi fondamentali:
 3) Il fotone, giunto a destinazione viene riconvertito in segnale elettrico.
 
 La conversione da segnale elettrico a impulso luminoso e vicevesa viene effettuata dal **convertitore opto-elettronico**.
-**La luce i
-La luce viaggia in un cavo sottilissimo in vetro e "**rimbalza**" (o meglio, si riflette) continuamente sulle pareti del cavo, composto da uno speciale tipologia di vetro.
+
+Esssendo presenti un solo generatore di luce ed un solo ricevente, si può dedurre come la comunicazione, tramite un solo cavo di fibra ottica, sia per forza di tipo **simplex**.
+
+Per ottenere una comunicazione **Duplex**, bisogna disporre di due  cavi in fibra ottica ed una fonte di luce e ricevitore da tutte e due le parti.
+
+**La luce in viaggio**
+La luce viaggia in un cavo sottilissimo e "**rimbalza**" (o meglio, riflette) continuamente sulle pareti del cavo.
 L'angolo con cui il fotone si riflette dipende dall'**indice di rifrazione** del vetro in questione.
 
+**Composizione**
+I cavi in fibra ottica sono molto simili ai cavi coassiali.
+1. Al centro vi è un **core** di vetro dove la luce rimbalza.
+2.  Il core è poi rivestito dal **cladding**, composto da un materiale a basso indice di rifrazione, che ha il compito di trattenere tutta la luce.
+3.  Infine vi è il **rivestimento** in materiale isolante.
 
+In un cavo di fibra ottica possono esserci più fili (almeno due e sempre multipli di 2).
+
+**Tipologie
 
 Ad oggi le fibre ottiche possono trasportare segnali per decine di chilometri.
 
-Abbiamo bisogno di due interfacce, che trasfromino un impulso di luce in elettricità e viceversa (**Convertitore Opto-Elettronico**).
-
 La massima larghezza di banda teorica delle fibre ottiche è di 50.000 Gb/s.
 La larghezza di banda attualmente più grande per una fibra ottica è di 100 Gb/s.
-
-### Composizione
-- Jack plastico (rivestimento in plastica)
-- cladding (rivestimento in vetro)
-- core (dove viaggia il fotone di luce)
-
-**indice di rifrazone**: permette alla luce di non "uscire" dal core e di non essere assorbita dal cladding.
-
-In un cavo di fibra ottica possono esserci più fili (almeno due e sempre multipli di 2).
-Vengono utilizzati multipli di due per creare una comunicazione duplex, dal fatto che i cavi di fibra ottica sono simplex.
 
 ### Tipologie di fibre ottiche
 vi sono due tipologie di fibre ottiche
