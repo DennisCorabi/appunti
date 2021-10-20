@@ -79,20 +79,18 @@ Ii segnali in questi cavi possono percorrere molti chilometri senza amplificator
 Su più lunghe distanze, invece, il segnale si attenua e vengono utilizzati i ripetori.
 
 **Tipologie**
-- **UTP** (Unshielded Twisted Pair): cavo composto dai fili e dal rivestimento isolante.
-- **STP** (Shielded Twisted Pair): i cavi sono coperti da un ulteriore rivestimento di rame.
-***
-## Twisted Pair
+- **Per struttura:**
+	- **UTP** (Unshielded Twisted Pair): cavo composto dai fili e dal rivestimento isolante.
+	- **STP** (Shielded Twisted Pair): i cavi sono coperti da un ulteriore rivestimento di materiale isolante.
 
-Nei cavi sono presenti dei cavi intrecciati tra di loro a coppie di due.
-**UTP**: Unshielded twisted pair
-**STP**: Shielded twisted pair (I cavi sono coperti da un ultreriore rivestimento di rame).
+- **Per collegamento**:
+	-  **Full Duplex**: *collegamento bidirezionale*: se sto inviando, riesco anche a ricevere il segnale.
+	- **Half Duplex**: *collegamento monodirezionale*: se sto invando, non riesco a ricevere il segnale.
+	- **Simplex**: collegamento monodirezionale dove posso solo ricevere il segnale, ma non inviarlo.
 
-Diverse tipologie di collegamento:
-- **Full Duplex**: *collegamento bidirezionale*: se sto inviando, riesco anche a ricevere il segnale.
-- **Half Duplex**: *collegamento monodirezionale*: se sto invando, non riesco a ricevere il segnale.
-- **Simplex**: collegamento monodirezionale dove posso solo ricevere il segnale, ma non inviarlo.
-
+### **Cavi Coassiali** 
+Il **Cavo Coassiale** viene è un mezzo di trasmissione dati molto utilizzato.
+Ha una protezione dai rumori ed una larghezza di banda migliore rispetto ai cavi twisted pair
 ***
 ## Cavi Coassiali
 
