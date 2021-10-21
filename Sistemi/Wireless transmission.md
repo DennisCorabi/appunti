@@ -50,7 +50,7 @@ Viene utilizzato prevalentemente nella comunicazione militare così da non farsi
 
 **	TODO**
 
-
+***
 
 ### Tipologie di comunicazione
 
@@ -93,11 +93,14 @@ Inoltre, i vari riceventi non si creano interferenza a vicenda grazie al fatto c
 Le microonde, a differenza delle onde radio, non passano attraverso le superfici e in alcuni strati dell'atmosfera possono persino essere **rallentate** o oppure **cancellate**.
 Questo fenomento è gravissimo ed è chiamato **multipath fading**.
 
-Vi sono poi alcune frequenze dove il tempo atmosferico fa la differenza.
-nelle frequenze a $4GHz$, l'acqua riesce ad *assorbire* facilemente il segnale.
-Questo per i segnali di comunicazione è un problema importantissimo.
+Vi sono poi alcune frequenze dove il tempo atmosferico fa la differenza; ad esempio, nelle frequenze a *4GHz*, l'acqua riesce ad **assorbire** facilemente il segnale.
+Questo fenomeno per i segnali di comunicazione è un problema importantissimo tanto quanto lo è il multipath fading.
 
-## Politica di segnale
+### Politica di segnale dello spettro elettromagnetico
+
+per prevenire il caos totale, i governi nazionali distribuiscono le varie frequenze tra le radio AM, radio FM, televisori, telefoni, eccetera.
+
+Un agenzia internazionale la **ITU-R**, coordina l'allocazione di frequenze sui dispositivi cosicchè essi possano essere utilizzati anche in paesi diversi.
 - Alcune frequenze sono riservate ed utilizzate
 
 - Zone ISN (INDUSTRIAL, SCIENTIFIC, MEDICAL):
