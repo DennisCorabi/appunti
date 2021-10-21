@@ -36,10 +36,21 @@ Lo spettro elettromagnetico si divide in:
 - Raggi-X
 - Gamma
 
-Le onde radio e microonde vengono utlizzate per la comunicazione per cavi coassiali e twisted pair, nonchè per la radio FM e AM.
-I raggi UV vengono invece utilizzati dalle fibre ottiche.
+Le onde **radio** e **microonde** vengono utlizzate per la comunicazione per cavi coassiali e twisted pair, nonchè per la radio FM e AM.
+I **raggi UV** vengono invece utilizzati dalle fibre ottiche.
 
-Le altre tipologie di onde non vengono utilizzate a causa de 
+Le altre tipologie di onde (infrarossi, X,gamma) non vengono utilizzate a causa dei loro **svantaggi** (non passano attraverso le superfici, sono troppo instabili), a discapito dei loro **vantaggi** (maggiore frequenza -> maggiore MDR). 
+
+### Metodi di comunicazione
+
+**Frequency Hopping**
+Il frequency hopping è un metodo di trasmissione dati caratterizzato da un continuo "saltare" di frequenza in frequenza.
+
+Viene utilizzato prevalentemente nella comunicazione militare così da non farsi intercettare le comunicazioni.
+
+**	TODO**
+
+
 
 
 #### Radio Transmission
