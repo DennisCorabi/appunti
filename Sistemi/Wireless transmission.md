@@ -124,7 +124,10 @@ La trasmissione utilizzando segnali di luce è monodirezionale (vi è un tramitt
 Questa tipologia di trasmissione conferisce un'**ampia larghezza di banda** per un **costo** relativamente **economico**.
 Difficilmente crea interferenze (grazie al fatto che l'onda è pressochè dritta) ed è **facilmente installabile**.
 
-D'altro canto, si deve far sì che il tramittore ed il ricevente siano perfettamente allineati (bst)
+D'altro canto, si deve far sì che il tramittore ed il ricevente siano **perfettamente allineati** (basta solo qualche grado di differenza che il segnale non arriva!).
+
+Inoltre, vento, pioggia, neve, effetto morgana, posso modificare la traiettoria del fascio di luce, rendendo ancor più complicata la ricezione del segnale da parte del mittente.
+***
 
 
 

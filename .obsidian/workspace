@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Wireless transmission.md",
+            "file": "Sistemi/Satellite transmission.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Wireless transmission.md",
+            "file": "Sistemi/Satellite transmission.md",
             "mode": "preview"
           }
         },
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282,
-    "collapsed": true
+    "width": 282
   },
   "right": {
     "id": "9a3a1f8b380277d2",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Wireless transmission.md",
+                "file": "Sistemi/Satellite transmission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,13 +103,13 @@
   },
   "active": "0df8470b0c10687e",
   "lastOpenFiles": [
-    "Sistemi/Wireless transmission.md",
+    "Sistemi/Satellite transmission.md",
     "Sistemi/Wired transmission.md",
+    "Sistemi/Wireless transmission.md",
     "Sistemi/17-09.md",
     "Sistemi/Physical Layer.md",
     "Sistemi/23-09.md",
     "TPS/14-09.md",
-    "Senza nome.md",
     "TPS/27-09.md",
     "Sistemi/30-09.md",
     "ciao.md"
