@@ -64,14 +64,24 @@ Il ricevitore, inoltre, non deve essere perfettamente allineato al mittente graz
 A **basse frequenze** le onde attraversano bene gli ostacoli, ma la potenza diminuisce bruscamente con la distanza dalla sorgente poiché l'energia del segnale viene distribuita in modo **più sottile** su una superficie **più ampia**; Questa attenuante si chiama **path loss**. 
 
 Ad **alte frequenze**, le onde radio tendono a viaggiare in linee rette e a rimbalzare sugli ostacoli.
-Le onde radio ad alta frequenza, inoltre, vengono "assorbite" in parte dalla pioggia e dalla neve, e questo può provocare molti disagi.
 
+Le onde radio ad alta frequenza, inoltre, vengono "**assorbite**" in parte dalla pioggia e dalla neve, e questo può provocare molti disagi.
 A tutte le frequenze, poi, le onde radio subiscono l'interferenza di motori e strumenti elettrici.
 
-Le radio AM usano le bande MF.
+**Tipologie**
+le onde radio si distinguono in base alla loro frequenza in:
+- Very Low Frequency (**VLF**)
+- Low Frequency (**LF**)
+- Medium Frequency (**MF**)
+- High Frequency (**HF**)
+- Very High Frequency (**VHF**)
+
+le onde VLF,LF e MF **seguono il terreno** mentre le onde HF e VHF **rimbalzano** contro la ionosfera e ritornano sulla terra.
+
+Le **radio AM** usano le bande MF.
 
 
-#### Trasmissione a microonde
+#### Microwave Transmission
 sopra i 100 $Mhz$ le onde si spostano i linee rette e quindi possono essere concentrati in una linea con una piccola dispersione.
 
 Vi sono alcune frequenze dove il tempo atmosferico fa la differenza.
