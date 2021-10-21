@@ -96,7 +96,7 @@ Questo fenomento è gravissimo ed è chiamato **multipath fading**.
 Vi sono poi alcune frequenze dove il tempo atmosferico fa la differenza; ad esempio, nelle frequenze a *4GHz*, l'acqua riesce ad **assorbire** facilemente il segnale.
 Questo fenomeno per i segnali di comunicazione è un problema importantissimo tanto quanto lo è il multipath fading.
 
-### Politica di segnale dello spettro elettromagnetico
+#### Politica di segnale dello spettro elettromagnetico
 
 per prevenire il caos totale, i governi nazionali distribuiscono le varie frequenze tra le radio AM, radio FM, televisori, telefoni, eccetera.
 
@@ -108,7 +108,13 @@ lo spettro elettromagnetico viene suddiviso tra i suoi utlizzatori:
 - Alcune **frequenze** sono **riservate** ed utilizzate per scopi prevalentemente militari.
 - **ISN** (Industrial, Scientific, Medical):
 	frequenze libere a tutti quanti a patto che vengano utilizzate **potenze di trasmissione molto basse**, così da non creare interferenze agli altri utilizzatori di quel range di frequenze.
-- **U-NII** (Unlicensed National Information Infrastucture): parte dello spettro magnetico a  *5GHz*, facende parte delle zone **ISN**, ancora sottosviluppato ma in continua diffusione (grazie all'avvento della connetività 5G).
+- **U-NII** (Unlicensed National Information Infrastucture): parte dello spettro magnetico a  *5GHz*, facende parte delle zone **ISN**, ancora sottosviluppato ma in continuo aumento di diffusione.
+- **White Spaces** : parte dello spettro elettromagnetico a *700MHz* che è stato allocato ma che non viene utilizzato.
+
+#### Infrared  Transmission
+
+Le **trasmissioni ad infrarossi** sono largamente utilizzate per le brevi distanze.
+Vengono utiizzate prevalentemente nei telecomandi, data la loro capacità di rimbalzare sulle pareti.
 
 
 
