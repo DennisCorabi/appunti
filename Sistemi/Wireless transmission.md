@@ -82,9 +82,18 @@ Le **radio AM** usano le bande MF.
 
 
 #### Microwave Transmission
-sopra i 100 $Mhz$ le onde si spostano i linee rette e quindi possono essere concentrati in una linea con una piccola dispersione.
 
-Vi sono alcune frequenze dove il tempo atmosferico fa la differenza.
+sopra i 100 $Mhz$ le onde si spostano in **linee rette** e quindi possono essere **concentrate** in una linea con una piccola dispersione.
+
+Concentrare tutta l'energia del segnale su una antenna ricevitrice ci dà un maggiore **S/N** (ovvero maggiore MDR), ma bisogna **allineare perfettamente** l'antenna con il trasmettitore (a differenza delle onde radio).
+Inoltre, i vari riceventi non si creano interferenza a vicenda grazie al fatto che le microonde non si disperdono.
+
+**Tolleranza delle microonde**
+
+Le microonde, a differenza delle onde radio, non passano attraverso le superfici e in alcuni strati dell'atmosfera possono persino essere **rallentate** o oppure **cancellate**.
+Questo fenomento è gravissimo ed è chiamato **multipath fading**.
+
+Vi sono poi alcune frequenze dove il tempo atmosferico fa la differenza.
 nelle frequenze a $4GHz$, l'acqua riesce ad *assorbire* facilemente il segnale.
 Questo per i segnali di comunicazione è un problema importantissimo.
 
