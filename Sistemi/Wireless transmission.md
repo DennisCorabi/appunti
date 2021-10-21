@@ -101,10 +101,14 @@ Questo fenomeno per i segnali di comunicazione è un problema importantissimo ta
 per prevenire il caos totale, i governi nazionali distribuiscono le varie frequenze tra le radio AM, radio FM, televisori, telefoni, eccetera.
 
 Un agenzia internazionale la **ITU-R**, coordina l'allocazione di frequenze sui dispositivi cosicchè essi possano essere utilizzati anche in paesi diversi.
-- Alcune frequenze sono riservate ed utilizzate
 
-- Zone ISN (INDUSTRIAL, SCIENTIFIC, MEDICAL):
-	frequenze libere a tutti quanti a patto che vengano utilizzate potenze di trasmissione molto basse, così da non creare interferenze agli altri.
+**Distribuzione delle freuquenze**
+lo spettro elettromagnetico viene suddiviso tra i suoi utlizzatori:
+
+- Alcune **frequenze** sono **riservate** ed utilizzate per scopi prevalentemente militari.
+- **ISN** (Industrial, Scientific, Medical):
+	frequenze libere a tutti quanti a patto che vengano utilizzate **potenze di trasmissione molto basse**, così da non creare interferenze agli altri utilizzatori di quel range di frequenze.
+- **U-NII** (Unlicensed National Information Infrastucture): parte dello spettro magnetico a  *5GHz*, facende parte delle zone **ISN**, ancora sottosviluppato ma in continua diffusione (grazie all'avvento della connetività 5G).
 
 
 
