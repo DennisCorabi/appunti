@@ -37,11 +37,13 @@ Da ciò si evince che ci posso essere nello spazio sono **180** satelliti geosta
 
 D'altro canto, i **transponder** all'interno di questi satelliti possono operare su diverse frequenze ed aumentare quindi la larghezza di banda totale del satellite.
 
-
 I satelliti geostazionari pesano oltre **5 tonnellate** e consumano moltissima potenza, la maggior parte della quale è ricavata dal raccogliemento dell'energia solare grazie a dei pannelli.
 
+**Station Keeping**
 Gli effetti di attrazione da parte della luna e del sole tendono a modificare l'orbita del satellite.
-Per ovviare a questo problema	
+Per ovviare a questo problema, sono presenti all'interno del satellite dei motori atti a correggere la traiettoria del satellite.
+
+Questa tecnica è chiamata **station keeping**.
 
  
 
