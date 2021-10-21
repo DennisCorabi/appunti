@@ -52,13 +52,23 @@ Viene utilizzato prevalentemente nella comunicazione militare così da non farsi
 
 
 
+### Tipologie di comunicazione
 
-#### Radio Transmission
+ #### Radio transmission
+ 
+Le onde radio sono largamente utilizzate nella comunicazione wireless perchè  sono **facili da generare**, si **propagano su lunghe distanze** e possono **oltrepassare le pareti**.
+Il ricevitore, inoltre, non deve essere perfettamente allineato al mittente grazie al fatto che le onde radio si disperdono in tutte le direzioni.
+
+**Path Loss e tolleranza ai rumori**
+
+A **basse frequenze** le onde attraversano bene gli ostacoli, ma la potenza diminuisce bruscamente con la distanza dalla sorgente poiché l'energia del segnale viene distribuita in modo **più sottile** su una superficie **più ampia**; Questa attenuante si chiama **path loss**. 
+
+Ad **alte frequenze**, le onde radio tendono a viaggiare in linee rette e a rimbalzare sugli ostacoli.
+Le onde radio ad alta frequenza, inoltre, vengono "assorbite" in parte dalla pioggia e dalla neve, e questo può provocare molti disagi.
+
+A tutte le frequenze, poi, le onde radio subiscono l'interferenza di motori e strumenti elettrici.
 
 Le radio AM usano le bande MF.
-A basse frequenze le onde attraversano bene gli ostacoli, ma la potenza diminuisce bruscamente con la distanza dalla sorgente, almeno alla velocità di $1/r^2$ nell'aria, poiché l'energia del segnale viene distribuita in modo più sottile su una superficie più ampia.
-
-Questa attenuante si chiama **path loss**. Ad alte frequenze, le onde radio tendono a viaggiare in linee rette e a rimbalzare sugli ostacoli.
 
 
 #### Trasmissione a microonde
