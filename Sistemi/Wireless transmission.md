@@ -26,6 +26,21 @@ Questo è il principio alla base del sistema di **comunicazione senza fili**.
 
 ## Spettro elettromagnetico
 
+Lo **spettro elettromagnetico** è l'insieme di tutte le possibili frequenze della radiazione elettromagnetica. 
+Le onde dello spettro elettromagnetico possono essere utilizzate per trasmettere informazioni modulando la loro **ampiezza**, **frequenza** e **fase**.
+Lo spettro elettromagnetico si divide in:
+- **onde radio**
+- **microonde**
+- infrarossi
+- **Ultra-Violetti**
+- Raggi-X
+- Gamma
+
+Le onde radio e microonde vengono utlizzate per la comunicazione per cavi coassiali e twisted pair, nonchè per la radio FM e AM.
+I raggi UV vengono invece utilizzati dalle fibre ottiche.
+
+Le altre tipologie di onde non vengono utilizzate a causa de 
+
 
 #### Radio Transmission
 
