@@ -6,13 +6,28 @@
       {
         "id": "0df8470b0c10687e",
         "type": "leaf",
+        "dimension": 53.2563025210084,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/04-10.md",
+            "file": "Sistemi/Wireless transmission.md",
+            "mode": "source"
+          }
+        },
+        "group": "6009ea8c87cc1df7"
+      },
+      {
+        "id": "2d169ec1bd643b63",
+        "type": "leaf",
+        "dimension": 46.7436974789916,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sistemi/Wireless transmission.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "6009ea8c87cc1df7"
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282
+    "width": 282,
+    "collapsed": true
   },
   "right": {
     "id": "9a3a1f8b380277d2",
@@ -68,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/04-10.md",
+                "file": "Sistemi/Wireless transmission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +104,11 @@
   },
   "active": "0df8470b0c10687e",
   "lastOpenFiles": [
-    "Sistemi/04-10.md",
-    "Sistemi/Wired Medium.md",
+    "Sistemi/Wireless transmission.md",
+    "Sistemi/Wired transmission.md",
+    "Sistemi/17-09.md",
     "Sistemi/Physical Layer.md",
     "Sistemi/23-09.md",
-    "Sistemi/17-09.md",
     "TPS/14-09.md",
     "Senza nome.md",
     "TPS/27-09.md",

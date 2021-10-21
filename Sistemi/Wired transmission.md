@@ -1,12 +1,5 @@
-# Livello fisico
-## Indice
-- **Mezzi di trasmissione**
-	- Cablata
-	- Wireless
-	- Satellitare
-	- Altri
-	
-- **Modulazione Digitale **
+# Wired transmission
+
 
 ## Introduzione
 

@@ -1,17 +1,19 @@
-# 04-10-2021
+# Wireless transmission
 
-## Wireless Transmission
+## Introduzione
 
-Trasmissione in radiofrequenza utilizzando onde elettromagnetiche.
+per comunicazione wireless si intende la trasmissione in radiofrequenza utilizzando onde elettromagnetiche.
 
 
-### Lo spettro elettromagnetico
+## Lo spettro elettromagnetico
 
-Quando gli elettroni si muovono, creano onde elettromagnetiche che possono essere propagate nello spazio.
+Quando gli elettroni si muovono, creano **onde elettromagnetiche** che possono essere propagate nello spazio.
 
-Il numero di oscillazioni per secondo di una onda è la **frequenza** $f$, ed è misurata in Hz.
+Sono state ipotizzate dapprima da **James Clerk Maxwell** e vennero osservate per la prima volta, qualche anno dopo, dallo scienziato tedesco **Heinrich Hertz**.
 
-La distanza tra due massimi (o minimi) consecutivi è chiamata **lunghezza d'onda** $\lambda$.
+Il numero di oscillazioni per secondo di un' onda si chiama **frequenza** $f$, ed è misurata in $Hz$.
+
+La distanza tra due picchi massimi (o minimi) consecutivi di un onda è chiamata **lunghezza d'onda**, la cui unità di misura è il lambda [$\lambda$].
 
 Tutte onde elettromagnetiche viaggiano alla stessa velocità, questa velocità è chiamata **velocità della luce** $c$, che corrisponde a circa $3 * 10^8$ m/sec.
 
