@@ -5,19 +5,27 @@
 per comunicazione wireless si intende la trasmissione in radiofrequenza utilizzando onde elettromagnetiche.
 
 
-## Lo spettro elettromagnetico
+## Onde elettromagnetiche
+
 
 Quando gli elettroni si muovono, creano **onde elettromagnetiche** che possono essere propagate nello spazio.
 
 Sono state ipotizzate dapprima da **James Clerk Maxwell** e vennero osservate per la prima volta, qualche anno dopo, dallo scienziato tedesco **Heinrich Hertz**.
 
-Il numero di oscillazioni per secondo di un' onda si chiama **frequenza** $f$, ed è misurata in $Hz$.
+**Proprietà di un onda**
+1) Il numero di oscillazioni per secondo di un' onda si chiama **frequenza** $f$, ed è misurata in $Hz$.
+2) La distanza tra due picchi massimi (o minimi) consecutivi di un onda è chiamata **lunghezza d'onda**, la cui unità di misura è il lambda [$\lambda$].
+3) Tutte onde elettromagnetiche nel vuoto viaggiano alla stessa velocità, questa velocità è chiamata **velocità della luce** $c$, che corrisponde a circa $3 * 10^8$ m/sec.
 
-La distanza tra due picchi massimi (o minimi) consecutivi di un onda è chiamata **lunghezza d'onda**, la cui unità di misura è il lambda [$\lambda$].
+**Relazione fondamentale:** $\lambda\times f=c$
 
-Tutte onde elettromagnetiche viaggiano alla stessa velocità, questa velocità è chiamata **velocità della luce** $c$, che corrisponde a circa $3 * 10^8$ m/sec.
 
-Più le frequenza aumentano, più MDR sarà grande. 
+**Trasmissione**
+Quando una attenna viene collegata ad un circuito elettrico, le onde elettromagnetiche si **propagano** efficacemente e possono raggiungere distanze notevoli.
+Questo è il principio alla base del sistema di **comunicazione senza fili**.
+
+## Spettro elettromagnetico
+
 
 #### Radio Transmission
 
