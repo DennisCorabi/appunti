@@ -114,7 +114,17 @@ lo spettro elettromagnetico viene suddiviso tra i suoi utlizzatori:
 #### Infrared  Transmission
 
 Le **trasmissioni ad infrarossi** sono largamente utilizzate per le brevi distanze.
-Vengono utiizzate prevalentemente nei telecomandi, data la loro capacità di rimbalzare sulle pareti.
+Vengono utiizzate prevalentemente nei telecomandi, data la loro capacità di **rimbalzare sulle pareti**.
+Non potendo creare delle interferenze significative , le trasmissioni ad infrarossi non sono regolamentate dai governi.
+Sono dei segnali molto **economici** ed hanno una **bassa potenza**.
+
+#### Light Transmission
+
+La trasmissione utilizzando segnali di luce è monodirezionale (vi è un tramittente ed un ricevitore), ovvero **simplex**.
+Questa tipologia di trasmissione conferisce un'**ampia larghezza di banda** per un **costo** relativamente **economico**.
+Difficilmente crea interferenze (grazie al fatto che l'onda è pressochè dritta) ed è **facilmente installabile**.
+
+D'altro canto, si deve far sì che il tramittore ed il ricevente siano perfettamente allineati (bst)
 
 
 
