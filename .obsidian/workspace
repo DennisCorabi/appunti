@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Wired Medium.md",
+            "file": "Sistemi/04-10.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Wired Medium.md",
+                "file": "Sistemi/04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "0df8470b0c10687e",
   "lastOpenFiles": [
+    "Sistemi/04-10.md",
     "Sistemi/Wired Medium.md",
     "Sistemi/Physical Layer.md",
     "Sistemi/23-09.md",
-    "Sistemi/04-10.md",
     "Sistemi/17-09.md",
     "TPS/14-09.md",
     "Senza nome.md",
