@@ -27,7 +27,21 @@ Se la somma di queste due forze è zero, allora il satellite rimarrà nello spaz
 #### **Satelliti Geostazionari**
 
 Secondo la legge di Keplero, i satelliti che si trova a circa **35.800 Km** dal nucleo della terra compiono un periodo attorno ad essa in circa **24 ore**.
-Detto ciò, si può dire che i satelliti che si trovano a questa altitudine li vediamo fermi perchè ruotano attorno al nucleo insieme a noi: **Satelliti Geostazionari**.
+
+Detto ciò, si può dire che i satelliti che si trovano a questa altitudine li vediamo **fermi** nel cielo perchè ruotano attorno al nucleo insieme a noi e ad alla medesia velocità: sono i **Satelliti Geostazionari**.
+
+**Caratteristche**
+
+I satelliti geostazionari ruotano sopra l'equatore devono essere distanziati fra di loro di circa **due gradi** per non creare interferenze o, peggio ancora, eventuali collisioni.
+Da ciò si evince che ci posso essere nello spazio sono **180** satelliti geostazionari.
+
+D'altro canto, i **transponder** all'interno di questi satelliti possono operare su diverse frequenze ed aumentare quindi la larghezza di banda totale del satellite.
+
+
+I satelliti geostazionari pesano oltre **5 tonnellate** e consumano moltissima potenza, la maggior parte della quale è ricavata dal raccogliemento dell'energia solare grazie a dei pannelli.
+
+Gli effetti di attrazione da parte della luna e del sole tendono a modificare l'orbita del satellite.
+Per ovviare a questo problema	
 
  
 
