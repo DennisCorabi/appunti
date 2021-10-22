@@ -87,7 +87,19 @@ I satelliti in questa fascia sono circa **30** e fanno parte del **GPS** (Global
 
 ### Satelliti LEO
 
-ad altitudini ancora più basse (fino a 1000 Km), troviamo i cosidetti satelliti LEO (Low-Earth Orbit Satellites).
+Ad altitudini ancora più basse (fino a 1000 Km), troviamo i cosidetti satelliti LEO (Low-Earth Orbit Satellites).
+
+Costano ancora meno dei sateliiti MEO ed hanno un **basso consumo** di potenza (data la loro vicinanaza alla terra).
+Sempre a causa della loro altitudine, i satelliti LEO hanno una **bassa latenza** (ordine dei microsecondi) e un minore **footprint**. 
+
+#### Iridium
+
+Il  satelliti **iridum** sono un insieme di 66 satelliti LEO lanciati nel 1998 e ancora oggi sono presenti nell'atmosfera terrestre.
+I satelliti sono posizionati ad una altitudine di 750 Km e sulle latitudini multiple di 32.
+
+#### Globalstar
+
+Insieme di 48 satelliti LEO che, a differenza dei satelliti Iridium, utilizzano il tradizionale schema di utilizzo **bent pipe**
 
 
 
