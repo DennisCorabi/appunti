@@ -24,7 +24,7 @@ Se la somma di queste due forze è zero, allora il satellite rimarrà nello spaz
 
 ### Diverse tipologie di satellite
 
-#### **Satelliti Geostazionari**
+#### Satelliti Geostazionari
 
 Secondo la legge di Keplero, i satelliti che si trova a circa **35.800 Km** dal nucleo della terra compiono un periodo attorno ad essa in circa **24 ore**.
 
@@ -42,8 +42,16 @@ I satelliti geostazionari pesano oltre **5 tonnellate** e consumano moltissima p
 **Station Keeping**
 Gli effetti di attrazione da parte della luna e del sole tendono a modificare l'orbita del satellite.
 Per ovviare a questo problema, sono presenti all'interno del satellite dei motori atti a correggere la traiettoria del satellite.
-
 Questa tecnica è chiamata **station keeping**.
+
+**Frequenze Satellitari**
+Per non interferire con gli utilizzatori di onde radio sulla terra, la ITU ha allocato alcune frequenze radio per la trasmissione **da** (**Downlink**) e **verso** (**uplink**) il satellite.
+
+**Footprint**
+
+I primi satelliti geostazionari coprivano 1/3 dell'intero globo
+
+
 
  
 
