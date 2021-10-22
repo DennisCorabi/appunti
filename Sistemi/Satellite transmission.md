@@ -22,15 +22,15 @@ I satelliti sono soggetti a **due forze**:
 
 Se la somma di queste due forze è zero, allora il satellite rimarrà nello spazio senza cadere sulla terra.
 
-### Diverse tipologie di satellite
+## Diverse tipologie di satellite
 
-#### Satelliti Geostazionari
+### Satelliti Geostazionari
 
 Secondo la legge di Keplero, i satelliti che si trova a circa **35.800 Km** dal nucleo della terra compiono un periodo attorno ad essa in circa **24 ore**.
 
 Detto ciò, si può dire che i satelliti che si trovano a questa altitudine li vediamo **fermi** nel cielo perchè ruotano attorno al nucleo insieme a noi e ad alla medesia velocità: sono i **Satelliti Geostazionari**.
 
-**Caratteristche**
+#### Caratteristiche
 
 I satelliti geostazionari ruotano sopra l'equatore devono essere distanziati fra di loro di circa **due gradi** per non creare interferenze o, peggio ancora, eventuali collisioni.
 Da ciò si evince che ci posso essere nello spazio sono **180** satelliti geostazionari.
@@ -39,12 +39,26 @@ D'altro canto, i **transponder** all'interno di questi satelliti possono operare
 
 I satelliti geostazionari pesano oltre **5 tonnellate** e consumano moltissima potenza, la maggior parte della quale è ricavata dal raccogliemento dell'energia solare grazie a dei pannelli.
 
-**Station Keeping**
+Anche se i segnali viaggiano ad una velocità elevatissima (velocità della luce *c*), sono soggetti a dei **rallentamenti** influenzati prevalentemente dalla **distanza** del satellite dal ricevente.
+
+**Latenza**
+La latenza è somma del tempo di volo del segnale (sia andata che ritorno) ed il tempo di **bent-pipe** (ovvero il tempo dove il segnale si trova nel satellite).
+Da ciò si evince che le gli utilizzatori dei satelliti sull'equatore avranno una **minore latenza** di chi li usa in Europa come in Nord America.
+
+Un vantaggio dell'utilizzo dei satelliti è che il costo di trasmissione del segnale è **indipendente** dalla tua distanza dal satellite.
+
+**Sicurezza**
+Sfortunatamente, i segnali inviati e ricevuti dal satellite possono essere facilemente intercettati e devono essere per forza criptati.
+
+
+
+
+#### Station Keeping
 Gli effetti di attrazione da parte della luna e del sole tendono a modificare l'orbita del satellite.
 Per ovviare a questo problema, sono presenti all'interno del satellite dei motori atti a correggere la traiettoria del satellite.
 Questa tecnica è chiamata **station keeping**.
 
-**Frequenze Satellitari**
+#### Frequenze Satellitari**
 Per non interferire con gli utilizzatori di onde radio sulla terra, la ITU ha allocato alcune frequenze radio per la trasmissione **da** (**Downlink**) e **verso** (**uplink**) il satellite.
 
 **Footprint**
