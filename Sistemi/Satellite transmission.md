@@ -99,9 +99,15 @@ I satelliti sono posizionati ad una altitudine di 750 Km e sulle latitudini mult
 
 #### Globalstar
 
-Insieme di 48 satelliti LEO che, a differenza dei satelliti Iridium, utilizzano il tradizionale schema di utilizzo **bent pipe**
+Insieme di 48 satelliti LEO che, a differenza dei satelliti Iridium, utilizzano il tradizionale schema di utilizzo **bent pipe**.
 
+#### CubeSats
 
+i **CubeSats** sono satelliti di dimensioni 10x10x10 **centimetri**, con un peso di massimo **1Kg**, che possono essere mandati nello spazio per l'economica cifra di 40.000 €.
+
+## Satelliti Vs Fibre
+
+TODO
 
 
 

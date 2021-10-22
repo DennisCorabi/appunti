@@ -6,28 +6,13 @@
       {
         "id": "0df8470b0c10687e",
         "type": "leaf",
-        "dimension": 47.9740680713128,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Satellite transmission.md",
+            "file": "Sistemi/Signal Modulation.md",
             "mode": "source"
           }
-        },
-        "group": "6009ea8c87cc1df7"
-      },
-      {
-        "id": "2d169ec1bd643b63",
-        "type": "leaf",
-        "dimension": 52.0259319286872,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sistemi/Satellite transmission.md",
-            "mode": "preview"
-          }
-        },
-        "group": "6009ea8c87cc1df7"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282,
-    "collapsed": true
+    "width": 282
   },
   "right": {
     "id": "9a3a1f8b380277d2",
@@ -84,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Satellite transmission.md",
+                "file": "Sistemi/Signal Modulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +88,15 @@
   },
   "active": "0df8470b0c10687e",
   "lastOpenFiles": [
+    "Sistemi/Signal Modulation.md",
+    "Sistemi/Wireless transmission.md",
     "Sistemi/Satellite transmission.md",
     "Sistemi/Wired transmission.md",
-    "Sistemi/Wireless transmission.md",
     "Sistemi/17-09.md",
     "Sistemi/Physical Layer.md",
     "Sistemi/23-09.md",
     "TPS/14-09.md",
     "TPS/27-09.md",
-    "Sistemi/30-09.md",
-    "ciao.md"
+    "Sistemi/30-09.md"
   ]
 }
