@@ -58,6 +58,13 @@ La tecnologia dei **VSAT** consiste nella presenza di piccoli terminali, aliment
 
 Vengono solitamente utilizzati per le trasmissioni televisive **simplex**.
 
+I terminali VSAT utilizzano poi delle speciali stazioni terrestri dotate di enormi antenne, chiamate **HUB**, che fungono da **mediatrici** tra il satellite ed il ricevente, **amplificando** il segnale ricevuto.
+
+La tecnologia VSAT viene ampiamente utilizzata nei paesi dove non è possibile usufruire di tecnologie più costose.
+
+
+
+
 
 
 
