@@ -24,7 +24,7 @@ Se la somma di queste due forze è zero, allora il satellite rimarrà nello spaz
 
 ## Diverse tipologie di satellite
 
-### Satelliti Geostazionari
+### Satelliti Geostazionari (GEO)
 
 Secondo la legge di Keplero, i satelliti che si trova a circa **35.800 Km** dal nucleo della terra compiono un periodo attorno ad essa in circa **24 ore**.
 
@@ -41,7 +41,7 @@ I satelliti geostazionari pesano oltre **5 tonnellate** e consumano moltissima p
 
 Anche se i segnali viaggiano ad una velocità elevatissima (velocità della luce *c*), sono soggetti a dei **rallentamenti** influenzati prevalentemente dalla **distanza** del satellite dal ricevente.
 
-**Latenza**
+#### Latenza
 La latenza è somma del tempo di volo del segnale (sia andata che ritorno) ed il tempo di **bent-pipe** (ovvero il tempo dove il segnale si trova nel satellite).
 Da ciò si evince che le gli utilizzatori dei satelliti sull'equatore avranno una **minore latenza** di chi li usa in Europa come in Nord America.
 
@@ -58,10 +58,9 @@ Gli effetti di attrazione da parte della luna e del sole tendono a modificare l'
 Per ovviare a questo problema, sono presenti all'interno del satellite dei motori atti a correggere la traiettoria del satellite.
 Questa tecnica è chiamata **station keeping**.
 
-#### Frequenze Satellitari**
+#### Frequenze Satellitari e footprint
 Per non interferire con gli utilizzatori di onde radio sulla terra, la ITU ha allocato alcune frequenze radio per la trasmissione **da** (**Downlink**) e **verso** (**uplink**) il satellite.
 
-**Footprint**
 La **footprint** di un satellite geostazionario è la sua copertura della terra.
 I primi satelliti geostazionari coprivano 1/3 dell'intero globo
 
@@ -75,6 +74,21 @@ Vengono solitamente utilizzati per le trasmissioni televisive **simplex**.
 I terminali VSAT utilizzano poi delle speciali stazioni terrestri dotate di enormi antenne, chiamate **HUB**, che fungono da **mediatrici** tra il satellite ed il ricevente, **amplificando** il segnale ricevuto.
 
 La tecnologia VSAT viene ampiamente utilizzata nei paesi dove non è possibile usufruire di tecnologie più costose.
+
+### Satelliti MEO
+
+ad altituidini più basse troviamo, comprese tra le due fasce di Van Allen, i **satelliti MEO** (Medium-Earth Orbit Satellites).
+Trovandosi ad una più bassa altitudine (compresa tra i 5000 ed i 15000 Km), coprono una superficie più bassa di terra (minore **footprint**) e compiono una rotazione della terra in circa **6 ore**.
+
+Sono molto più economici rispetto ai satelliti geostazionari per quanto riguarda il costo di manutenzione/installazione e per l'uso di carburante.
+
+I satelliti in questa fascia sono circa **30** e fanno parte del **GPS** (Global Positioning System).
+
+
+### Satelliti LEO
+
+ad altitudini ancora più basse (fino a 1000 Km), troviamo i cosidetti satelliti LEO (Low-Earth Orbit Satellites).
+
 
 
 
