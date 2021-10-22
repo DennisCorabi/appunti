@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Signal Modulation.md",
+            "file": "Sistemi/Wired transmission.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Signal Modulation.md",
+                "file": "Sistemi/Wired transmission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "0df8470b0c10687e",
   "lastOpenFiles": [
-    "Sistemi/Signal Modulation.md",
+    "Sistemi/Wired transmission.md",
     "Sistemi/Wireless transmission.md",
     "Sistemi/Satellite transmission.md",
-    "Sistemi/Wired transmission.md",
+    "Sistemi/Signal Modulation.md",
     "Sistemi/17-09.md",
     "Sistemi/Physical Layer.md",
     "Sistemi/23-09.md",
