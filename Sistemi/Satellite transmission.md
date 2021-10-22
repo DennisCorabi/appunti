@@ -48,8 +48,17 @@ Questa tecnica è chiamata **station keeping**.
 Per non interferire con gli utilizzatori di onde radio sulla terra, la ITU ha allocato alcune frequenze radio per la trasmissione **da** (**Downlink**) e **verso** (**uplink**) il satellite.
 
 **Footprint**
-
+La **footprint** di un satellite geostazionario è la sua copertura della terra.
 I primi satelliti geostazionari coprivano 1/3 dell'intero globo
+
+
+#### Vsat (Very Small Aperture Terminals)
+
+La tecnologia dei **VSAT** consiste nella presenza di piccoli terminali, alimentati ad un 1W di **potenza**, che trasmettono con 1	Mbps di **uplink** e **downlink** anch'esso nell'ordine dei Mbps.
+
+Vengono solitamente utilizzati per le trasmissioni televisive **simplex**.
+
+
 
 
 
