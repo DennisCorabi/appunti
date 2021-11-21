@@ -12,7 +12,20 @@
             "file": "Sistemi/Satellite transmission.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "b1d152b3010c049a"
+      },
+      {
+        "id": "5526b717fb9a282d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sistemi/Satellite transmission.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b1d152b3010c049a"
       }
     ],
     "direction": "vertical"
