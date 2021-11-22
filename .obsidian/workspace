@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Satellite transmission.md",
+            "file": "Sistemi/Multiplexing.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Satellite transmission.md",
+            "file": "Sistemi/Multiplexing.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Satellite transmission.md",
+                "file": "Sistemi/Multiplexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "0df8470b0c10687e",
   "lastOpenFiles": [
+    "Sistemi/Multiplexing.md",
     "Sistemi/Satellite transmission.md",
+    "Sistemi/Stati di un processo.md",
     "Sistemi/Wireless transmission.md",
-    "Sistemi/Wired transmission.md",
     "Sistemi/Signal Modulation.md",
-    "Sistemi/17-09.md",
+    "Sistemi/Wired transmission.md",
     "Sistemi/Physical Layer.md",
     "Sistemi/23-09.md",
     "TPS/14-09.md",
-    "TPS/27-09.md",
-    "Sistemi/30-09.md"
+    "TPS/27-09.md"
   ]
 }
