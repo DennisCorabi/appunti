@@ -30,10 +30,8 @@ Ad ogni stazione **NON** viene associata una sequenza di 0 e 1, bensì, per ragi
 
 
 ### Funzionamento 
-Se ad un canale A viene assegnata una sequenza di **chip** pari a *(-1,-1-1,1,1-1,1,1)*, allora invia un 1 se nel segnale viene inviata questa sequenza, 0 se il invia il complemento di questa sequenza (*1,1,1,-1,-1,1,-1,-1)*.
+Se ad un canale A viene assegnata una sequenza di **chip** pari a *(-1,-1-1,1,1-1,1,1)*, allora invia un 1 se nel segnale viene inviata questa sequenza, 0 se il invia il complemento di questa sequenza (*1,1,1,-1,-1,1,-1,-1)*.	
 
-
-esempio:
- 
+	
 
 
