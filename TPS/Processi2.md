@@ -26,15 +26,27 @@ I thread si possono creare all'interno di un programma in C chiamando la funzion
 
 Gli argomenti della funzione sono:
 - Posizione al parametro che utilizza la funzione passata come 3° parametro
-- 
 - puntatore ad una funzione (puntatore alla prima istruzione di una funzione)
 
 I thread possono a loro volta creare altri thread dal momento che **NON** vi è una gerarchia fra i thread.
 
+### Stoppare un thread
+
+I thread si possono stoppare all'interno di un programma invocando la funzione *phtread_join*, la funzione **wait** dei thread.
 
 ### Terminare un Thread
 
 I thread possono essere terminati utilizzando la funzione *pthread_exit*, dove mando una richiesta al thread di **suicidarsi**.
+
+
+
+
+
+
+
+
+
+
 
 
 
