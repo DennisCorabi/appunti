@@ -44,9 +44,9 @@ I thread possono essere terminati utilizzando la funzione *pthread_exit*, dove m
 
 
 
-
-
-
+Zone critiche: regioni in comune con i thread (es. variabili globali)
+corse critiche: funzioni che utilizzano risorse critiche (condivise tra i vari thread)
+<
 
 
 
