@@ -1,31 +1,31 @@
 {
   "main": {
-    "id": "4b98a58509403ad1",
+    "id": "c43c9e0a66337f46",
     "type": "split",
     "children": [
       {
-        "id": "0df8470b0c10687e",
+        "id": "559833848c1a6972",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TPS/Processi2.md",
+            "file": "Sistemi/PSTM.md",
             "mode": "source"
           }
         },
-        "group": "b1d152b3010c049a"
+        "group": "2dc0a0c5caa45fb1"
       },
       {
-        "id": "5526b717fb9a282d",
+        "id": "29dd330de44c6341",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TPS/Processi2.md",
+            "file": "Sistemi/PSTM.md",
             "mode": "preview"
           }
         },
-        "group": "b1d152b3010c049a"
+        "group": "2dc0a0c5caa45fb1"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TPS/Processi2.md",
+                "file": "Sistemi/PSTM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0df8470b0c10687e",
+  "active": "559833848c1a6972",
   "lastOpenFiles": [
-    "TPS/Processi2.md",
+    "Sistemi/PSTM.md",
     "Sistemi/Multiplexing.md",
+    "TPS/Processi2.md",
+    "g.md",
+    "Sistemi/Wireless transmission.md",
     "TPS/Processi1.md",
     "TPS/27-09.md",
     "Sistemi/Stati di un processo.md",
     "Sistemi/Wired transmission.md",
-    "Sistemi/Satellite transmission.md",
-    "Sistemi/Signal Modulation.md",
-    "Sistemi/Wireless transmission.md",
-    "Sistemi/Physical Layer.md"
+    "Sistemi/Satellite transmission.md"
   ]
 }
