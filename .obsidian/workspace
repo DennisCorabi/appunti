@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "559833848c1a6972",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sistemi/PSTM.md",
-            "mode": "source"
-          }
-        },
-        "group": "2dc0a0c5caa45fb1"
-      },
-      {
         "id": "29dd330de44c6341",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/PSTM.md",
+            "file": "Sistemi/Reti Mobili.md",
+            "mode": "source"
+          }
+        },
+        "group": "df7c7a1993422f92"
+      },
+      {
+        "id": "159c27d621f02e7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sistemi/Reti Mobili.md",
             "mode": "preview"
           }
         },
-        "group": "2dc0a0c5caa45fb1"
+        "group": "df7c7a1993422f92"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/PSTM.md",
+                "file": "Sistemi/Reti Mobili.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "559833848c1a6972",
+  "active": "29dd330de44c6341",
   "lastOpenFiles": [
+    "Sistemi/Reti Mobili.md",
     "Sistemi/PSTM.md",
-    "Sistemi/Multiplexing.md",
     "TPS/Processi2.md",
-    "g.md",
     "Sistemi/Wireless transmission.md",
     "TPS/Processi1.md",
-    "TPS/27-09.md",
-    "Sistemi/Stati di un processo.md",
+    "Sistemi/Satellite transmission.md",
+    "Sistemi/Signal Modulation.md",
     "Sistemi/Wired transmission.md",
-    "Sistemi/Satellite transmission.md"
+    "Sistemi/Stati di un processo.md",
+    "Sistemi/Multiplexing.md"
   ]
 }

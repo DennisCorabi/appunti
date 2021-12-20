@@ -48,4 +48,5 @@ In verità, una comunicazione telefonica occupa **4KHz**: 3 vengono utilzzati pe
 
 
 La frequenza massima di una linea telefonica è di **56 KHz**.
-Si poteva andare olte (ca. *70KHz*), ma il resto viene utilizzato per controllo di errori
+Si poteva andare olte (ca. *70KHz*), ma il resto viene utilizzato per controllo di errori.
+
