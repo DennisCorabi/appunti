@@ -9,21 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Livello Data-Link/Data Link.md",
+            "file": "TPS/Processi2.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "2dbacac8274a8ef2"
       },
       {
-        "id": "f7f6c3ef1436ddf2",
+        "id": "2f413f08c7a53d47",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Livello Data-Link/Data Link.md",
+            "file": "TPS/Processi2.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "2dbacac8274a8ef2"
       }
     ],
     "direction": "vertical"
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Livello Data-Link/Data Link.md",
+                "file": "TPS/Processi2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +101,15 @@
   },
   "active": "ab0ad570e0ea26ca",
   "lastOpenFiles": [
-    "Sistemi/Livello Data-Link/Data Link.md",
+    "TPS/Processi2.md",
     "TPS/Stati di un processo.md",
+    "Sistemi/Livello Data-Link/Data Link.md",
     "Sistemi/Livello Fisico/Multiplexing.md",
     "Sistemi/Livello Fisico/PSTM.md",
     "Sistemi/Livello Fisico/Wireless transmission.md",
     "Sistemi/Livello Fisico/Signal Modulation.md",
     "Sistemi/Livello Fisico/Satellite transmission.md",
     "Sistemi/Livello Fisico/Wired transmission.md",
-    "Sistemi/Reti Mobili.md",
-    "TPS/Processi2.md"
+    "Sistemi/Reti Mobili.md"
   ]
 }
