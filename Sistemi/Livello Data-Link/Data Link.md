@@ -21,7 +21,7 @@ I frame sono di **dimensione variabile**; per questo motivo, sono presenti diver
 - **Flag byte**: Quando la scheda di rete si trova un **flag byte**, identificato grazie ad una sequenza di escape (**ESC**), lo interpreta come la fine del frame. 
 Un flag byte identifica l'**inizio** e la **fine** del frame; quando sono presenti due flag, senza nulla nel mezzo, allora la NIC sa che **sta iniziando un nuovo frame**.
 
-il **preambolo** sono tutti quei byte, inseriti all'inizio del frame, servono sincronizzare mittente e ricevente, segnalando che sta incominicando un nuovo frame.
+il **preambolo** sono tutti quei byte, inseriti all'inizio del frame, servono sincronizzare mittente e ricevente, segnalando che sta incominicando un nuovo fram
 
 ### Incapsulamento del frame
 Il frame è composto da  **tre elementi**:
