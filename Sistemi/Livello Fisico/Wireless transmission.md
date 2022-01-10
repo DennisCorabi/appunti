@@ -106,7 +106,7 @@ Un agenzia internazionale la **ITU-R**, coordina l'allocazione di frequenze sui 
 lo spettro elettromagnetico viene suddiviso tra i suoi utlizzatori:
 
 - Alcune **frequenze** sono **riservate** ed utilizzate per scopi prevalentemente militari.
-- **ISN** (Industrial, Scientific, Medical):
+- **ISM** (Industrial, Scientific, Medical):
 	frequenze libere a tutti quanti a patto che vengano utilizzate **potenze di trasmissione molto basse**, così da non creare interferenze agli altri utilizzatori di quel range di frequenze.
 - **U-NII** (Unlicensed National Information Infrastucture): parte dello spettro magnetico a  *5GHz*, facende parte delle zone **ISN**, ancora sottosviluppato ma in continuo aumento di diffusione.
 - **White Spaces** : parte dello spettro elettromagnetico a *700MHz* che è stato allocato ma che non viene utilizzato.

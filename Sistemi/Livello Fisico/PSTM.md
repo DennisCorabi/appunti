@@ -1,6 +1,6 @@
-# PSTM
+# PSTN
 
-## PSTM (Public Switched Telephone Network)
+## PSTN (Public Switched Telephone Network)
 
 Tecnologia utilizzata per comunicazioni con telefoni fissi
 - **Rete completamente interconnessa**

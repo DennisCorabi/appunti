@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "29dd330de44c6341",
+        "id": "ab0ad570e0ea26ca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Reti Mobili.md",
+            "file": "Sistemi/Livello Data-Link/Data Link.md",
             "mode": "source"
           }
         },
-        "group": "df7c7a1993422f92"
+        "group": "dad918122ebaf440"
       },
       {
-        "id": "159c27d621f02e7f",
+        "id": "f7f6c3ef1436ddf2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Reti Mobili.md",
+            "file": "Sistemi/Livello Data-Link/Data Link.md",
             "mode": "preview"
           }
         },
-        "group": "df7c7a1993422f92"
+        "group": "dad918122ebaf440"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Reti Mobili.md",
+                "file": "Sistemi/Livello Data-Link/Data Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29dd330de44c6341",
+  "active": "ab0ad570e0ea26ca",
   "lastOpenFiles": [
+    "Sistemi/Livello Data-Link/Data Link.md",
+    "TPS/Stati di un processo.md",
+    "Sistemi/Livello Fisico/Multiplexing.md",
+    "Sistemi/Livello Fisico/PSTM.md",
+    "Sistemi/Livello Fisico/Wireless transmission.md",
+    "Sistemi/Livello Fisico/Signal Modulation.md",
+    "Sistemi/Livello Fisico/Satellite transmission.md",
+    "Sistemi/Livello Fisico/Wired transmission.md",
     "Sistemi/Reti Mobili.md",
-    "Sistemi/PSTM.md",
-    "TPS/Processi2.md",
-    "Sistemi/Wireless transmission.md",
-    "TPS/Processi1.md",
-    "Sistemi/Satellite transmission.md",
-    "Sistemi/Signal Modulation.md",
-    "Sistemi/Wired transmission.md",
-    "Sistemi/Stati di un processo.md",
-    "Sistemi/Multiplexing.md"
+    "TPS/Processi2.md"
   ]
 }
