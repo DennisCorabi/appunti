@@ -9,5 +9,6 @@
   "promptDelete": false,
   "legacyEditor": false,
   "livePreview": true,
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "spellcheck": false
 }

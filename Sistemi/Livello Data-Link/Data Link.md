@@ -103,7 +103,7 @@ Per far sì che un errore non venga rilevato nel frame, dobbiamo cambiare **tant
 Per correggere un frame non valido, usiamo il **principio di massima verosimiglianza**.
 In altre parole, dato un frame non valido, prendo **il code word più simile**, ovvero quello che il minore numero di bit diversi dal frame ricevuto.
 
-P
+
 
 
 

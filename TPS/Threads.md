@@ -1,4 +1,4 @@
-# Processi
+# Threads
 
 ## Threads
 I **thread** sono dei **sottoprogrammi** che compiono una certa funzione, rigorosamente in **parallelo** ad altri thread.
@@ -90,26 +90,48 @@ In aggiunta, sono presenti delle versioni di queste chiamate di sistema che **no
 
 Con le chiamate di sistema non bloccanti e gli **interrupt** (segnali elettrici che vengono inviati alle periferiche), si riesce a creare una sorta di **parallelismo**; d'altro canto, questa tecnica è sconsigliata, a favore invece dell'utilizzo dei **thread**.
 
-
 vedere pag. 104 figura 2.11
 
 
+## Risorse critiche
+
+### Corsa critica
+Una **corsa critica** avviene quando due o più thread vogliono accedere ad una variabile globale presente nel data segment.
+
+Una corsa critica può avvenire anche tra due **processi** che vogliono accedere ad un dato (variabile, file, ecc..) condiviso.
+
+### Regione critica
+Per evitare di creare delle corse critiche, dobbiamo creare un sistema di **mutual exclusion** per una risorsa critica.
+In altre parole, gestire l'accesso ad una risorsa critica tramite l'utilizzo di **variabili mutex**.
+
+Un processo, nel mentre che non sta facendo istruzioni critiche (non sta accedendo a regioni critiche) , **non può bloccare un'altro processo**.
+
+Nessun processo deve aspettare all'infinito per accedere una regione critica. al massimo, deve essere ucciso.
 
 
+## Busy waiting
+
+Mettere un processo su una variabile, che rimane continuamente (**occupando il processore**) in attesa di un interrupt.
+Questa tecnica funziona, ma comporta molti problemi al PC (consumo processore -> consumo batteria).
+
+Gli interrupt possono essere disabilitati, però dovrebbero essere SOLO disabilitati dai processi che accedono ad una risorsa critica, NON dall'utente. Ciò, infatti, comporta **molti rischi**.
 
 
+### Alternanza stretta
+
+Per **alternanza stretta** si intende **sincronizzazione del lavoro** tra due processi (es. un processo produce una risorsa che viene utilizzata da un altro processo).
+
+*Esempio*: Una variabile è condivisa tra due thread per vedere chi può accedere ad una regione critica, e chi no.
+
+Un **lock** che usa un busy waiting si chiama **spin lock**.
 
 
+### Istruzione TSL
+L'Istruzione  **TSL** è una istruzione assembly che permette di settare e modificare una variabile lock.
+L'istruzione del TSL permette di **lockare** una variabile per indicare che un altro processo  sta usando la regione critica.
+La TSL può essere vista come l'unione di **due istruzioni**.
+-  Copia il valore del lock nel registro.
+- Il valore del lock viene poi cambiato in 1, per indicare che ora **un processo sta usando una risorsa critica**, e perciò nessun'altro processo può accedervi.
 
-
-
-
-
-
-
-
-
-
-
-
-
+ Se prima la lock era *0*, allora viene negato l'accesso alla risorsa critica da parte di altri processi.
+ Termiato l'accesso alla regione critica del processo, il valore della lock che viene copiato nel registro è *1*, andando ad indicare che **la risorsa è libera di essere acceduta**
