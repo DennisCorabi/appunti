@@ -46,13 +46,6 @@ A differenza degli indirizzi IP, il separatore tra i Byte dell'indirizzo è il *
 
 **Driver della NIC**: driver che permette al sistema operativo di comunicare con la scheda di rete.
 
-
-
-
-
-
-
-
 ## Tipologie di comunicazione tra NIC
 
 - **Point-to-Point**: canale utilizzato **SOLO** per far comunicare due NIC
@@ -60,6 +53,67 @@ A differenza degli indirizzi IP, il separatore tra i Byte dell'indirizzo è il *
 
 Il **multicast** è una tecnica che presenta molti problemi, primo fra tutti la **collisione*** che si crea quando più schede di rete vogliono comunicare sul canale simultaneamente.
 Per ovviare a questo problema, bisogna utilizzare uno **schedulatore**, per regolamentare il traffico nel canale.
+
+***
+## Controllo degli errori
+
+### Rilevazione degli errori
+
+#### Bit di parità
+**bit di ridondanza**: Bit aggiunti al frame che vengono usati per rilevare eventuali errori nel frame inviato (verifica l'integrità del frame) ed eventualmente, correggerli.
+
+Il **tasso di errore** è il rapporto tra il numero di bit inviati sbagliati e quelli corretti.
+Per ricavare il numero di bit corretti, invece, facciamo: $$1-tasso dierrore$$
+Per ricavare la probabilità che tutti i bit del frame siano sbagliati, facciamo:
+
+$$ tassodierrore*numerobitframe $$
+
+*Esempio*:
+- Ho 7 bit., aggiungo un bit, chiamato **di parità**. Si chiama bit di parità perchè aggiungiamo un 1 o uno 0 in base a **se il numero di 1 è pari**.
+
+Un errore si può anche manifestare nel bit di parità.
+
+
+#### Codici di Hamming
+Il frame conterrà *m* bit di informazione, al quale aggiungeremo *r* bit di ridondanza.
+Perciò, la grandezza totale del frame è *m+r* bit.
+
+**Definizioni:**
+
+ I **codici di hamming** sono codici utilizzati per la correzione di errori dentro un frame.
+ 
+Una **code word** è un frame valido che possiamo ricevere, ovvero che possiede una codifica accettabile (che non contiene errori).
+Il **code rate** è un numero di code word che riesco ad inviare al secondo.
+
+**L'efficienza del frame** è una proprietà che ci permette di capire quanti bit possiamo usare per inviare dati. La formula è:
+$$
+efficienza=m/n
+$$
+
+L'efficienza sarà sempre un valore compreso tra *0 * e *1*.
+
+La **distanza di Hamming** è la differenza tra i valori diversi tra due stringhe.
+**Legal codewords**: sono stringhe di bit che non contengono alcun errore (i bit sono tutti corretti). 
+
+
+Per far sì che un errore non venga rilevato nel frame, dobbiamo cambiare **tanti bit quanti sono i bit di parità**.
+
+### Correzione degli errori
+
+Per correggere un frame non valido, usiamo il **principio di massima verosimiglianza**.
+In altre parole, dato un frame non valido, prendo **il code word più simile**, ovvero quello che il minore numero di bit diversi dal frame ricevuto.
+
+P
+
+
+
+
+
+
+
+
+
+
 
 
 

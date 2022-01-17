@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TPS/Processi2.md",
-            "mode": "source"
+            "file": "Sistemi/Livello Data-Link/Data Link.md",
+            "mode": "source",
+            "source": false
           }
         },
         "group": "2dbacac8274a8ef2"
@@ -21,8 +22,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TPS/Processi2.md",
-            "mode": "preview"
+            "file": "Sistemi/Livello Data-Link/Data Link.md",
+            "mode": "preview",
+            "source": false
           }
         },
         "group": "2dbacac8274a8ef2"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TPS/Processi2.md",
+                "file": "Sistemi/Livello Data-Link/Data Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +103,9 @@
   },
   "active": "ab0ad570e0ea26ca",
   "lastOpenFiles": [
+    "Sistemi/Livello Data-Link/Data Link.md",
     "TPS/Processi2.md",
     "TPS/Stati di un processo.md",
-    "Sistemi/Livello Data-Link/Data Link.md",
     "Sistemi/Livello Fisico/Multiplexing.md",
     "Sistemi/Livello Fisico/PSTM.md",
     "Sistemi/Livello Fisico/Wireless transmission.md",
