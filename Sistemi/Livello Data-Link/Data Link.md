@@ -54,8 +54,8 @@ A differenza degli indirizzi IP, il separatore tra i Byte dell'indirizzo è il *
 Il **multicast** è una tecnica che presenta molti problemi, primo fra tutti la **collisione*** che si crea quando più schede di rete vogliono comunicare sul canale simultaneamente.
 Per ovviare a questo problema, bisogna utilizzare uno **schedulatore**, per regolamentare il traffico nel canale.
 
-***
 ## Controllo degli errori
+
 
 ### Rilevazione degli errori
 
@@ -81,10 +81,10 @@ Perciò, la grandezza totale del frame è *m+r* bit.
 **Definizioni:**
 
  I **codici di hamming** sono codici utilizzati per la correzione di errori dentro un frame.
- 
+questi codici sono utilizzati per correggere un certo numero di bit **O** per rilevare la presenza di errori.
 Una **code word** è un frame valido che possiamo ricevere, ovvero che possiede una codifica accettabile (che non contiene errori).
-Il **code rate** è un numero di code word che riesco ad inviare al secondo.
 
+Il **code rate** è un numero di code word che riesco ad inviare al secondo.
 **L'efficienza del frame** è una proprietà che ci permette di capire quanti bit possiamo usare per inviare dati. La formula è:
 $$
 efficienza=m/n
@@ -97,13 +97,49 @@ La **distanza di Hamming** è la differenza tra i valori diversi tra due stringh
 
 
 Per far sì che un errore non venga rilevato nel frame, dobbiamo cambiare **tanti bit quanti sono i bit di parità**.
+***
 
 ### Correzione degli errori
 
 Per correggere un frame non valido, usiamo il **principio di massima verosimiglianza**.
 In altre parole, dato un frame non valido, prendo **il code word più simile**, ovvero quello che il minore numero di bit diversi dal frame ricevuto.
+Per correggere *d* bit, le code word devono avere una distanza di *2d+1*
 
 
+#### DIsuguaglianza di hemming
+*m*: numero di bit inviati
+*r*: numero di bit di ridondanza
+*n*: numero totale di bit. Numero massimo di combinazioni tra bit.
+
+Non possiamo però utilizzarle tutte, dal momento che molte di esse non saranno code word valide; Possiamo utilizzare *2^m* combinazioni diverse.
+$$
+(m+r+1)*2^m
+$$
+numero di code word giuste o quelle che contengono solo un errore (quelle che hanno un solo bit di differenza da quelle corrette).
+
+Per poter utilizzare i bit di ridondanza efficacemente, **Il numero di code word corrette deve essere minore di quelle totali**.
+$$
+(m+r+1)2^m < 2^n
+$$
+Semplificando:
+$$
+(m+r+1)<2^r
+$$
+La disuguaglianza di Hemming ci permette di definire il **numero minimo di bit di ridondanza** necessari in un frame per poter correggere un bit.
+
+***
+
+#### Organizzare i bit di ridondanza
+
+Scelto il numero di bit da inviare, scelgo di conseguenza il numero di bit di ridondanza (tramite la disuguaglianza di Hemming).
+Dando per certo che il codice sia **di autocorrezione di un bit** (capace di rilevare il bit sbagliato, per poi correggerlo).
+I bit di ridondanza si inseriscono nel frame nei posti **di indice pari a potenze di due**.
+
+#### anomalia
+l'elemento di posto *0* nel frame si chiama **anomalia**, un numero intero positivo che **segnala la posizione del bit sbagliato**, ovvero quello che deve essere invertito.
+L'anomalia ha come valore 0 quando non sono presenti errori nel frame.
+
+Non viene inviato nel canale, ma solo da chi calcola il frame.
 
 
 

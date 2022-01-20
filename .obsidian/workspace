@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TPS/Threads.md",
+            "file": "Sistemi/Livello Data-Link/Data Link.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TPS/Threads.md",
+                "file": "Sistemi/Livello Data-Link/Data Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "ab0ad570e0ea26ca",
   "lastOpenFiles": [
+    "Sistemi/Livello Data-Link/Data Link.md",
     "TPS/Threads.md",
     "TPS/Processi.md",
-    "Sistemi/Livello Data-Link/Data Link.md",
     "Threads.pdf",
     "TPS/Stati di un processo.md",
     "Sistemi/Livello Fisico/Multiplexing.md",
