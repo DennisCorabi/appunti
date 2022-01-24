@@ -203,7 +203,7 @@ R5: 00011 OK
 
 Valore anomalia: 2+8 = 10
 
-Frame ricevuto (2 errori): **11**0**1**110**1**0*1*01011
+Frame ricevuto (2 errori):
 
 
 

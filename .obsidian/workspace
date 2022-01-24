@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Livello Data-Link/Data Link.md",
+            "file": "TPS/Socket.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Livello Data-Link/Data Link.md",
+                "file": "TPS/Socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ab0ad570e0ea26ca",
   "lastOpenFiles": [
+    "TPS/Socket.md",
     "Sistemi/Livello Data-Link/Data Link.md",
     "TPS/Threads.md",
     "TPS/Processi.md",
@@ -97,7 +98,6 @@
     "Sistemi/Livello Fisico/Multiplexing.md",
     "Sistemi/Livello Fisico/PSTM.md",
     "Sistemi/Livello Fisico/Wireless transmission.md",
-    "Sistemi/Livello Fisico/Signal Modulation.md",
-    "Sistemi/Livello Fisico/Satellite transmission.md"
+    "Sistemi/Livello Fisico/Signal Modulation.md"
   ]
 }
