@@ -141,6 +141,68 @@ L'anomalia ha come valore 0 quando non sono presenti errori nel frame.
 
 Non viene inviato nel canale, ma solo da chi calcola il frame.
 
+#### esercizio
+
+**Invio del frame**
+m = 8  --> 10111001
+Con disuguaglianza di Hemming: r= 4 bit ridondanza
+
+Frame composto da 12 bit (n=m+r)
+Posti per i bit: 1,2,4,8.   Negli altri posti: payload
+Frame totale: bb1b011b1001
+
+Calcolo la parità: controllo se vi è parità nel frame (numero di 1 pari)
+N.bit a 1: 5
+Per avere parità pari, **setto un bit di ridondanza a 1**
+
+Setto il secondo bit di ridondanza a 1 (per un algoritmo)
+Setto il terzo bit di ridondanza a 1 (per algoritmo)
+Setto quarto bit di ridondanza a 0 (per algoritmo)
+**Frame completato ed inviabile**
+
+**Ricezione del frame & correzione errori**
+Supponiamo che Il destinatario riceva il frame con un bit sbagliato.
+
+frame: 11110110**0**001
+Per individuare l'errore, **ricalcolo i bit di ridondanza** con la stesso algoritmo.
+
+Ricalcolando il frame, vediamo che **r1** e **r8**  sono sbagliati, mentre gli altri due sono giusti.
+**La somma dei bit di ridondaza sbagliati è contenuta dentro l'anomalia**, perciò và flippato il bit di posizione 9 per correggere il frame.
+
+#### Algoritmo per calcolo valore bit di ridonanza
+
+**Algoritmo** per calcolare un bit di parità di posizione n:
+- prendo n bit a partire dal bit di ridondanza (compreso lo stesso bit)
+- non considero i successivi n bit
+- Faccio somma degli 1 prelevati. In base al valore, setto a 0 o 1 il bit.
+- ripetere per tutti i bit di ridonanza del frame
+
+In base alla posizione del bit sbagliato, possiamo intuire **quale bit di ridondanza andrà a influenzare il bit**.
+
+#### Esercizi
+char1 = a = 97 = 01100001 
+char2 = c = 99 = 01100011
+
+m = 16 --> r=5 --> n=21
+
+Frame: bb0b110b0001011b00011
+
+R1: 0100001001 --> n.bit1 = 3 --> **R1=1**
+R2: 010001100 --> n.bit1 = 3 --> **R2 = 1**
+R3: 110101111 --> n.bit1 = 7 --> **R3= 1**
+R4: 00010110 --> n.bit1= 3 --> **R4=1**
+R5: 00011 --> n.bit1 = 2 --> **R5 = 0**
+
+Frame inviato: 110111010001011000011
+
+
+
+
+
+
+
+
+
 
 
 
