@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Livello Data-Link/CRC.md",
+            "file": "Sistemi/Livello Data-Link/Data Link.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Livello Data-Link/CRC.md",
+            "file": "Sistemi/Livello Data-Link/Data Link.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Livello Data-Link/CRC.md",
+                "file": "Sistemi/Livello Data-Link/Data Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9048a1b6ba242dd6",
+  "active": "ab0ad570e0ea26ca",
   "lastOpenFiles": [
-    "Sistemi/Livello Data-Link/CRC.md",
     "Sistemi/Livello Data-Link/Data Link.md",
-    "Sistemi/Livello Fisico/Wired transmission.md",
+    "Sistemi/Livello Data-Link/CRC.md",
+    "TPS/FSA.md",
     "TPS/Socket.md",
+    "Sistemi/Livello Fisico/Wired transmission.md",
     "TPS/Threads.md",
     "TPS/Processi.md",
     "Threads.pdf",
     "TPS/Stati di un processo.md",
-    "Sistemi/Livello Fisico/Multiplexing.md",
-    "Sistemi/Livello Fisico/PSTM.md"
+    "Sistemi/Livello Fisico/Multiplexing.md"
   ]
 }
