@@ -10,7 +10,7 @@ La NIC ricevente non riceve solo i frame, bensì li rinvia al mittente in caso f
 D'altro canto, una NIC deve conservare da qualche parte l'ultimo frame ricevuto, perciò usa un **buffer** per salvare l'ultimo frame ricevuto.
 
 ### Identificazione del frame
-I frame, per essere distinguibili tra di loro, devono avere un **identificatore**, univoco per ogni frame. Questo ID si trova nell'header.
+I frame, per essere distinguibili tra di loro, devono avere un **identificatore**, univoco per ogni-  frame. Questo ID si trova nell'header.
 
 
 ### Sliding window
