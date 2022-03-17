@@ -73,12 +73,6 @@ Una stazione **non pu√≤ inviare** ad una stazione in particolare il frame, bens√
 
 ##### Contention contest
 
-
-
-
-
-
-
 Protocollo tipico della rete ethernet.
 
 
