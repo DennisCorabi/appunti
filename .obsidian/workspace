@@ -4,32 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "ab0ad570e0ea26ca",
+        "id": "9048a1b6ba242dd6",
         "type": "leaf",
-        "dimension": 49.29078014184397,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Livello Data-Link/Data Link 3.md",
+            "file": "Sistemi/Livello Data-Link/Wi-Fi.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "4c034e163278d56a"
+        "group": "0bb3f4078e3efe6c"
       },
       {
-        "id": "9048a1b6ba242dd6",
+        "id": "e7a7bd8a0d9d614c",
         "type": "leaf",
-        "dimension": 50.70921985815603,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Livello Data-Link/Data Link 3.md",
+            "file": "Sistemi/Livello Data-Link/Wi-Fi.md",
             "mode": "preview",
             "source": false
           }
         },
-        "group": "4c034e163278d56a"
+        "group": "0bb3f4078e3efe6c"
       }
     ],
     "direction": "vertical"
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Livello Data-Link/Data Link 3.md",
+                "file": "Sistemi/Livello Data-Link/Wi-Fi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab0ad570e0ea26ca",
+  "active": "9048a1b6ba242dd6",
   "lastOpenFiles": [
-    "Sistemi/Livello Data-Link/Data Link 3.md",
-    "Sistemi/Livello Data-Link/CRC.md",
+    "Sistemi/Livello Data-Link/Wi-Fi.md",
     "Sistemi/Livello Data-Link/Medium Access Control.md",
     "Sistemi/Livello Data-Link/Data Link 2.md",
+    "Sistemi/Livello Data-Link/Ethernet.md",
+    "Sistemi/Livello Data-Link/Data Link 3.md",
+    "Sistemi/Livello Data-Link/Data Link.md",
+    "Sistemi/Livello Data-Link/CRC.md",
     "Telecomunicazioni/Opam.md",
     "TPS/FSA.md",
-    "Sistemi/Livello Data-Link/Data Link.md",
-    "TPS/Socket.md",
-    "Sistemi/Livello Fisico/Wired transmission.md",
-    "TPS/Threads.md"
+    "TPS/Socket.md"
   ]
 }
