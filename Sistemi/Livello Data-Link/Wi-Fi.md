@@ -28,7 +28,19 @@ la 802.11n: MDR di almeno 100Mbps. All'inizio vi era un solo canale da 20MHz, po
 802.11 usa **CSMA/CA** (CSMA with Collision Avoidance). Uso dell' **exponential backoff** e del **MACA**
 
 **Beacon**: segnale che viene inviato dalla NIC ogni 100ms per far notare la sua presenza alle NIC nella rete wireless.
+**frammentazione**: frammentare un frame molto grande in frame piccoli da inviare.
+
+#### struttura frame Wi-Fi
+
+- Frame control
+- Duration: avverte gli altri della dimensione del frame da inviare
+- Address 1-2-3: equivalente dell'indirizzo MAC nella ethernet. il terzo indirizzo è riservato ad un eventuale access point di mezzo nella comunicazione tra mittente e destinatario
+- Data
+- Check sequence: equivalente del crc
 
 
+## Bluetooth
+
+Usa il MAC address
 
 

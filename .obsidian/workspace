@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Livello Data-Link/Wi-Fi.md",
+            "file": "Sistemi/Livello Rete/Livello Rete.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemi/Livello Data-Link/Wi-Fi.md",
+            "file": "Sistemi/Livello Rete/Livello Rete.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Livello Data-Link/Wi-Fi.md",
+                "file": "Sistemi/Livello Rete/Livello Rete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "9048a1b6ba242dd6",
   "lastOpenFiles": [
+    "Sistemi/Livello Rete/Livello Rete.md",
     "Sistemi/Livello Data-Link/Wi-Fi.md",
     "Sistemi/Livello Data-Link/Medium Access Control.md",
     "Sistemi/Livello Data-Link/Data Link 2.md",
@@ -111,7 +112,6 @@
     "Sistemi/Livello Data-Link/Data Link.md",
     "Sistemi/Livello Data-Link/CRC.md",
     "Telecomunicazioni/Opam.md",
-    "TPS/FSA.md",
-    "TPS/Socket.md"
+    "TPS/FSA.md"
   ]
 }
